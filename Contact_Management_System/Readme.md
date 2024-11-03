@@ -81,3 +81,6 @@ After starting the application, follow the console prompts to:
 - Delete contacts
 - View all contacts
 - Search for a contact by ID
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
