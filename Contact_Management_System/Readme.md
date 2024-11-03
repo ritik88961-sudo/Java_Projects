@@ -6,6 +6,7 @@
 3. [Software Development Life Cycle (SDLC) Processes](#software-development-life-cycle-sdlc-processes)
 4. [Installation Guide](#installation-guide)
 5. [Usage](#usage)
+6. [License](#LICENSE)
 
 ## Overview
 The Console-Based Contact Management System is a Java application that allows users to manage their contacts through a command-line interface. Users can easily add, delete, view, and search for contacts. This lightweight solution is ideal for individuals or small businesses looking for an efficient way to handle contact information without the complexity of graphical user interfaces.
