@@ -1,3 +1,10 @@
+## Tags
+- Java
+- Contact Management System
+- To Do List
+- Java Projects
+- Software Development
+
 # Java Projects Repository 🚀
 
 Welcome to the Java Projects Repository! This repository contains a collection of Java projects that demonstrate various programming concepts, techniques, and applications. Each project is designed to help you learn and practice Java programming. 💻
